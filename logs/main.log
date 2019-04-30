@@ -1,0 +1,34 @@
+2019-04-30 23:07:08,543@agent.model DEBUG # loading model from F:\dasanxia\Reversi\src\data\model\best_weight
+2019-04-30 23:07:33,932@agent.model DEBUG # loading model from F:\dasanxia\Reversi\src\data\model\best_weight\model_best_weight.h5
+2019-04-30 23:07:50,223@agent.model DEBUG # loading model from F:\dasanxia\Reversi\src\data\model\best_weight\model_best_weight.h5
+2019-04-30 23:07:50,312@asyncio DEBUG # Using selector: SelectSelector
+2019-04-30 23:08:06,227@agent.model DEBUG # loading model from F:\dasanxia\Reversi\src\data\model\best_weight\model_best_weight.h5
+2019-04-30 23:08:06,325@asyncio DEBUG # Using selector: SelectSelector
+2019-04-30 23:08:11,955@agent.model DEBUG # loading model from F:\dasanxia\Reversi\src\data\model\best_weight\model_best_weight.h5
+2019-04-30 23:08:12,385@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:31,628@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:33,364@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:37,237@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:39,684@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:40,692@agent.player WARNING # Entering 1 thinking_loop
+2019-04-30 23:08:42,942@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:45,237@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:51,415@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:54,142@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:58,229@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:08:58,837@agent.player WARNING # Entering 1 thinking_loop
+2019-04-30 23:08:59,617@agent.player WARNING # Entering 2 thinking_loop
+2019-04-30 23:09:45,857@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:09:46,559@agent.player WARNING # Entering 1 thinking_loop
+2019-04-30 23:09:50,135@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:09:50,736@agent.player WARNING # Entering 1 thinking_loop
+2019-04-30 23:09:51,454@agent.player WARNING # Entering 2 thinking_loop
+2019-04-30 23:09:53,239@agent.player WARNING # Entering 0 thinking_loop
+2019-04-30 23:09:53,805@agent.player WARNING # Entering 1 thinking_loop
+2019-04-30 23:09:54,524@agent.player WARNING # Entering 2 thinking_loop
+2019-04-30 23:19:42,846@agent.model DEBUG # loading model from F:\dasanxia\Reversi\src\data\model\best_weight\model_best_weight.h5
+2019-04-30 23:19:43,379@asyncio DEBUG # Using selector: SelectSelector
+2019-04-30 23:24:06,816@agent.model DEBUG # loading model from F:\dasanxia\Reversi\src\data\model\best_weight\model_best_weight.h5
+2019-04-30 23:24:06,910@asyncio DEBUG # Using selector: SelectSelector
+2019-04-30 23:33:14,813@agent.model DEBUG # loading model from F:\dasanxia\Reversi\src\data\model\best_weight\model_best_weight.h5
+2019-04-30 23:33:15,471@asyncio DEBUG # Using selector: SelectSelector

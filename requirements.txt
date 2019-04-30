@@ -1,0 +1,8 @@
+h5py==2.7.1
+numpy==1.16.3
+torch==0.4.1
+moke_config==0.2.1
+wxPython==4.0.4
+env==0.1.0
+tensorboardX==1.6
+PyYAML==5.1
