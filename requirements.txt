@@ -5,4 +5,4 @@ moke_config==0.2.1
 wxPython==4.0.4
 env==0.1.0
 tensorboardX==1.6
-PyYAML==5.1
+PyYAML==5.4
