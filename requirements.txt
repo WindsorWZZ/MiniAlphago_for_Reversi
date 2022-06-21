@@ -1,5 +1,5 @@
 h5py==2.7.1
-numpy==1.16.3
+numpy==1.22.0
 torch==0.4.1
 moke_config==0.2.1
 wxPython==4.0.4
